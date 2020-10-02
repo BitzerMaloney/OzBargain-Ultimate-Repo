@@ -1,0 +1,4 @@
+#The time is now.
+time = "Now"
+if time == "Now":
+   print("The time is now.\n")
